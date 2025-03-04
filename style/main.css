@@ -536,6 +536,21 @@ hr {
   .tile.tile-33 .tile-inner {
     color: #e62727;
     background: #000000; }
+  .tile.tile-34 .tile-inner {
+    color: #00ffff;
+    background: #ffffff; }
+  .tile.tile-35 .tile-inner {
+    color: #00ff00;
+    background: #ffffff; }
+  .tile.tile-36 .tile-inner {
+    color: #ffff00;
+    background: #ffffff; }
+  .tile.tile-37 .tile-inner {
+    color: #ff0000;
+    background: #ffffff; }
+  .tile.tile-38 .tile-inner {
+    color: #ff00ff;
+    background: #ffffff; }
   .tile.tile-82 .tile-inner {
     color: #e8ccb7;
     background: #b68c6d; }
