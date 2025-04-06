@@ -67,6 +67,10 @@ HTMLActuator.prototype.addTile = function (tile) {
   if (tile.value === 200) inner.textContent = "⇠";
   if (tile.value === 300) inner.textContent = "⇡";
   if (tile.value === 400) inner.textContent = "⇣";
+  if (tile.value === 500) inner.textContent = "⇨";
+  if (tile.value === 600) inner.textContent = "⇦";
+  if (tile.value === 700) inner.textContent = "⇧";
+  if (tile.value === 800) inner.textContent = "⇩";
   if (tile.value === -4) inner.textContent = "✦";
   if (tile.value === -6) inner.textContent = "✶";
   if (tile.value === -8) inner.textContent = "✸";
